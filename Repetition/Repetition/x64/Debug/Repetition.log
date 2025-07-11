@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\ZOV\Practice\Repetition\Repetition\FileName.cpp(57,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Repetition.vcxproj -> C:\ZOV\Practice\Repetition\x64\Debug\Repetition.exe

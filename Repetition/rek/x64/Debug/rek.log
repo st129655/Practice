@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\ZOV\Practice\Repetition\rek\FileName.cpp(20,1): warning C4715: fact: значение возвращается не при всех путях выполнения
+C:\ZOV\Practice\Repetition\rek\FileName.cpp(12,1): warning C4715: fib: значение возвращается не при всех путях выполнения
+  rek.vcxproj -> C:\ZOV\Practice\Repetition\x64\Debug\rek.exe

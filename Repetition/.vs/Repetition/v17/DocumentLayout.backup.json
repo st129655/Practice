@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ZOV\\Practice\\Repetition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E657BDE8-DB29-4E8D-B285-96B4EED10208}|struct\\struct.vcxproj|C:\\ZOV\\Practice\\Repetition\\struct\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E657BDE8-DB29-4E8D-B285-96B4EED10208}|struct\\struct.vcxproj|solutionrelative:struct\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EDD838B-AD17-45BF-9278-B17E8BDCA08F}|hanoi\\hanoi.vcxproj|C:\\ZOV\\Practice\\Repetition\\hanoi\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EDD838B-AD17-45BF-9278-B17E8BDCA08F}|hanoi\\hanoi.vcxproj|solutionrelative:hanoi\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77900481-230D-48E2-AD65-63996A603092}|rek\\rek.vcxproj|C:\\ZOV\\Practice\\Repetition\\rek\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77900481-230D-48E2-AD65-63996A603092}|rek\\rek.vcxproj|solutionrelative:rek\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC92AF6-C0E6-4966-B198-81D2484FBB12}|repeat2\\repeat2.vcxproj|C:\\ZOV\\Practice\\Repetition\\repeat2\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFC92AF6-C0E6-4966-B198-81D2484FBB12}|repeat2\\repeat2.vcxproj|solutionrelative:repeat2\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2A3A8F-9F96-4261-8514-BA4CCDA5FFE4}|Repetition\\Repetition.vcxproj|C:\\ZOV\\Practice\\Repetition\\Repetition\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD2A3A8F-9F96-4261-8514-BA4CCDA5FFE4}|Repetition\\Repetition.vcxproj|solutionrelative:Repetition\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\ZOV\\Practice\\Repetition\\struct\\FileName.cpp",
+              "RelativeDocumentMoniker": "struct\\FileName.cpp",
+              "ToolTip": "C:\\ZOV\\Practice\\Repetition\\struct\\FileName.cpp",
+              "RelativeToolTip": "struct\\FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-10T15:47:54.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\ZOV\\Practice\\Repetition\\hanoi\\FileName.cpp",
+              "RelativeDocumentMoniker": "hanoi\\FileName.cpp",
+              "ToolTip": "C:\\ZOV\\Practice\\Repetition\\hanoi\\FileName.cpp",
+              "RelativeToolTip": "hanoi\\FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-09T14:56:53.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\ZOV\\Practice\\Repetition\\rek\\FileName.cpp",
+              "RelativeDocumentMoniker": "rek\\FileName.cpp",
+              "ToolTip": "C:\\ZOV\\Practice\\Repetition\\rek\\FileName.cpp",
+              "RelativeToolTip": "rek\\FileName.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-09T12:14:07.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\ZOV\\Practice\\Repetition\\Repetition\\FileName.cpp",
+              "RelativeDocumentMoniker": "Repetition\\FileName.cpp",
+              "ToolTip": "C:\\ZOV\\Practice\\Repetition\\Repetition\\FileName.cpp",
+              "RelativeToolTip": "Repetition\\FileName.cpp",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-09T11:40:57.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\ZOV\\Practice\\Repetition\\repeat2\\FileName.cpp",
+              "RelativeDocumentMoniker": "repeat2\\FileName.cpp",
+              "ToolTip": "C:\\ZOV\\Practice\\Repetition\\repeat2\\FileName.cpp",
+              "RelativeToolTip": "repeat2\\FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-09T11:01:29.829Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
