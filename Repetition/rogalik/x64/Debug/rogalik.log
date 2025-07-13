@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\ZOV\Practice\Repetition\rogalik\FileName.cpp(363,7): warning C4101: choice: неиспользованная локальная переменная
+C:\ZOV\Practice\Repetition\rogalik\FileName.cpp(364,7): warning C4101: count: неиспользованная локальная переменная
+C:\ZOV\Practice\Repetition\rogalik\FileName.cpp(388,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  rogalik.vcxproj -> C:\ZOV\Practice\Repetition\x64\Debug\rogalik.exe

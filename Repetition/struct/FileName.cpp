@@ -19,12 +19,11 @@ struct point {
 	double distance(point a)
 	{
 		std::cout.precision(12);
-		return sqrt(abs(a.x - x) * abs(a.x - x) + abs(a.y - y) * abs(a.y - y));
+		return sqrt((a.x - x) * (a.x - x) + (a.y - y) * (a.y - y));
 	}
 };
 void solution(point* array, int len)
 {
-
 	double* solutions = new double[len * (len - 1) / 2];
 	int count = 0;
 	double temp;
